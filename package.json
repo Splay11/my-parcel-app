@@ -1,7 +1,8 @@
 {
   "name": "my-parcel-app",
   "version": "1.0.0",
-  "main": "index.html",  // 修改这里
+  "description": "",
+  "main": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html"
