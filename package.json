@@ -1,17 +1,12 @@
 {
-    "name": "my-parcel-app",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "start": "parcel index.html",
-      "build": "parcel build index.html"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "devDependencies": {
-      "parcel": "^2.0.0"
-    }
+  "name": "my-parcel-app",
+  "version": "1.0.0",
+  "main": "index.html",  // 修改这里
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
   }
-  
+}
